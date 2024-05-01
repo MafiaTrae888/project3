@@ -3,6 +3,6 @@
 
 <h3 align = "left"> Connact me 
 <p align ="left">
-I'm open for contact on help with porject and learn opppertuity,
+I'm open for contact on help with project and learn opppertuity,
 if there anthing you would like to share or show feel feel.
 </p>
